@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Shafeek</h1>
+<h1 align="center">I'm Ahmed Shafeek 👋👋</h1>
 <h3 align="center">2nd year ECE Student at Ain-Shams University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshafeekk" alt="ahmedshafeekk" /></a> </p>
